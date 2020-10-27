@@ -1,0 +1,22 @@
+{
+    "payment_id":"123",
+    "seller_id":"123",
+    "amount":5026,
+    "currency":"BRL",
+    "order_id":"123",
+    "status":"APPROVED",
+    "received_at":"2020-10-16T17:12:24.645Z",
+    "credit":{
+        "delayed":false,
+        "authorization_code":"123",
+        "authorized_at":"2020-10-16T17:12:26Z",
+        "reason_code":"00",
+        "reason_message":"transaction approved",
+        "acquirer":"GETNET",
+        "soft_descriptor":"",
+        "brand":"visa",
+        "terminal_nsu":"123",
+        "acquirer_transaction_id":"123",
+        "transaction_id":"123"
+    }
+}

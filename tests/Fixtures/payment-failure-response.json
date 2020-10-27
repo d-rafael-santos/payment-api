@@ -1,0 +1,10 @@
+{
+    "message": "TestFailure",
+    "name": "TestFailure",
+    "status_code": 400,
+    "details": [
+        {
+            "teste": "teste"
+        }
+    ]
+}
