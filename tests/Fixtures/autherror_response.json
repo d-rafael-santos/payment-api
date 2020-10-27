@@ -1,0 +1,4 @@
+{
+    "error":"invalid_client",
+    "error_description":"The given client credentials were not valid"
+}
