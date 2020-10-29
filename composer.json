@@ -1,11 +1,13 @@
 {
     "name": "mercatus/payment-api",
     "type": "library",
+    "version": "0.1.0",
     "description": "Api de pagamento",
     "keywords": [
         "mercatus",
         "payment-api"
     ],
+
     "homepage": "https://github.com/mercatus/payment-api",
     "license": "MIT",
     "authors": [
@@ -20,7 +22,8 @@
         "php": "^7.4",
         "ext-curl": "*",
         "ext-json": "*",
-        "psr/cache": "^1.0"
+        "psr/cache": "^1.0",
+        "psr/http-message": "^1.0"
     },
     "require-dev": {
         "phpunit/phpunit" : "^9.0",
@@ -43,7 +46,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "0.1-dev"
         }
     },
     "config": {

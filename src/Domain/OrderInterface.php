@@ -15,4 +15,6 @@ interface OrderInterface
     public function getId();
 
     public function getTotal(): float;
+
+    public function getAddress(): ?AddressInterface;
 }

@@ -19,12 +19,6 @@ interface PaymentMethodInterface
     public function getUserInfo(): UserInterface;
 
     /**
-     * Retorna as informações do meio de pagamento
-     * @return DataInterface
-     */
-    public function getData(): DataInterface;
-
-    /**
      * Retorna o nome do meio de pagamento
      * @return string
      */
