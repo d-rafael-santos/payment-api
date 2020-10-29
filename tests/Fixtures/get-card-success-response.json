@@ -1,0 +1,18 @@
+{
+    "cards": [
+        {
+            "card_id": "e8ad2ae4-9e3e-4532-998f-1a5a11e56e58",
+            "last_four_digits": "1212",
+            "expiration_month": "12",
+            "expiration_year": "20",
+            "brand": "Mastercard",
+            "cardholder_name": "JOAO DA SILVA",
+            "customer_id": "9e5ded62-0ea6-4ebf-9e1d-55046a6e48ae",
+            "number_token": "dfe05208b105578c070f806c80abd3af09e246827d29b866cf4ce16c205849977c9496cbf0d0234f42339937f327747075f68763537b90b31389e01231d4d13c",
+            "used_at": "2017-04-19T16:30:30Z",
+            "created_at": "2017-04-19T16:30:30Z",
+            "updated_at": "2017-04-19T16:30:30Z",
+            "status": "active"
+        }
+    ]
+}

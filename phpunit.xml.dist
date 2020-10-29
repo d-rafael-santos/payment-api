@@ -23,8 +23,4 @@
     <logging>
         <junit outputFile="build/report.junit.xml"/>
     </logging>
-    <php>
-        <var name="getnetAuthorizationKey" value="teste" />
-        <var name="getnetSellerId" value="0" />
-    </php>
 </phpunit>

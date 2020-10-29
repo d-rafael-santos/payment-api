@@ -1,0 +1,13 @@
+{
+    "message": "Invalid Bin",
+    "name": "GatewayTokenizationServiceError",
+    "status_code": 402,
+    "details": [
+        {
+            "status": "DENIED",
+            "error_code": "TOKENIZATION-402",
+            "description": "Invalid Bin",
+            "description_detail": "The BIN - 111111 (first six digits of card number) that you submitted is not found in our payment provider"
+        }
+    ]
+}
