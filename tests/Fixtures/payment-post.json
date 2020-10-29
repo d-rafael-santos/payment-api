@@ -1,0 +1,61 @@
+{
+    "seller_id":"60049adf-fea2-41c1-9b5c-bf9aa7a6a666",
+    "amount":7027,
+    "currency":"BRL",
+    "order":{
+        "order_id":"ee6c69f9-9b2e-44b9-a3a8-80b2709ff191"
+    },
+    "customer":{
+        "customer_id":"02a1bdab-796a-40a3-9c96-0d7d34b8a7ee",
+        "first_name":"Rafael",
+        "last_name":"Santos",
+        "email":"rafa_lpark@hotmail.com",
+        "document_type":"CPF",
+        "document_number":"86088955015",
+        "phone_number":"12999999999",
+        "billing_address":{
+            "street":"Avenida teste",
+            "number":"1444",
+            "complement":"bloco 0 apto 1",
+            "district":"Bairro teste",
+            "city":"Mogi das Cruzes",
+            "state":"SP",
+            "country":"Brasil",
+            "postal_code":"12045010"
+        }
+    },
+    "shippings": [
+        {
+            "phone_number":"12999999999",
+            "address": {
+                "street":"Avenida teste",
+                "number":"1444",
+                "complement":"bloco 0 apto 1",
+                "district":"Bairro teste",
+                "city":"Mogi das Cruzes",
+                "state":"SP",
+                "country":"Brasil",
+                "postal_code":"12045010"
+            }
+        }
+    ],
+    "credit":{
+        "delayed":false,
+        "authenticated":false,
+        "pre_authorization":false,
+        "save_card_data":true,
+        "transaction_type":"FULL",
+        "number_installments":1,
+        "card": {
+            "number_token":"dfe05208b105578c070f806c80abd3af09e246827d29b866cf4ce16c205849977c9496cbf0d0234f42339937f327747075f68763537b90b31389e01231d4d13c",
+            "cardholder_name":"Rafael Dourado dos Santos",
+            "security_code":"123",
+            "expiration_month":"02",
+            "expiration_year":"26"
+        }
+    },
+    "device":{
+        "ip_address":"127.0.0.1",
+        "device_id":"abc_123"
+    }
+}

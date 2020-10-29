@@ -21,6 +21,6 @@
         </testsuite>
     </testsuites>
     <logging>
-        <junit outputFile="build/report.junit.xml"/>
+    <junit outputFile="build/report.junit.xml"/>
     </logging>
 </phpunit>
